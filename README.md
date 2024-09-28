@@ -7,6 +7,10 @@ The primary goal of this project is to demonstrate the capabilities and importan
 ## Demo
 
 https://github.com/YashChauhan0001/ImageCaptionGen/blob/main/gif/demo_gif.gif
+
+## Screenshots
+
+![App Screenshot](https://github.com/YashChauhan0001/ImageCaptionGen/blob/main/gif/demo_gif.gif)
 ## Tech Stack
 
 Python
